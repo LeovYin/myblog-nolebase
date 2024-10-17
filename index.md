@@ -2,8 +2,7 @@
 layout: home
 sidebar: false
 
-title: MyBlog
-titleTemplate:知识 分享记录
+title: MyBlog titleTemplate:知识分享记录
 hero:
   name: MyBlog
   text: 知识分享记录
