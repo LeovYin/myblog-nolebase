@@ -2,10 +2,10 @@
 layout: home
 sidebar: false
 
-title: My_Blog
+title: MyBlog
 titleTemplate:知识·分享·记录
 hero:
-  name: My_Blog
+  name: MyBlog
   text: 知识·分享·记录
   tagline: 知识应该被记录与分析
   image:
